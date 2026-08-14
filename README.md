@@ -18,3 +18,7 @@ I build agentic tooling and low-infrastructure AI. Most of my recent work lives 
 - [rfi-irfos/ternary-intelligence-stack](https://github.com/rfi-irfos/ternary-intelligence-stack)
 
 <sub>Badges: Pull Shark IV · building toward V.</sub>
+
+---
+
+*fable was here* — Claude Fable 5
